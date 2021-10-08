@@ -7,3 +7,7 @@ if guess == 8:
 else:
     print("猜错啦，小甲鱼现在心里想的是8！")
 print("游戏结束，不玩啦～")
+
+# BIF==Built- in function == 内置函数
+# input、print都是BIF;
+# "=" 是赋值，“==” 是等于；
