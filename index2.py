@@ -21,7 +21,8 @@ print(ourboss)
 
 # 字符串：
 #如果字符串中有单引号或双引号，可以用转义符号（\）对字符串中的引号进行转义：
-print ("let\' go!")
+print ("let\'s go!")
+print("Let's go!")
 
 # 原始字符串：
 str = "C:\now"
@@ -40,4 +41,4 @@ str = """一二三四五
 松鼠在吃蛙
 一起乐哈哈......
 """
-print(str) 
+print(str)
