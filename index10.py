@@ -24,4 +24,4 @@ print(list)
 
 # slice[这是开始截取的数，最后截取的数但不包含它自己]，包头不包尾；
 test = member[1:3]
-print(member, test)
+print(test)            # [:]可以得到整个数组的拷贝
